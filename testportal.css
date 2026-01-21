@@ -1,8 +1,8 @@
 /* testportal.css - styles for a simple test portal UI */
 #headertext {
-  color: #dc2626;
+  color: #dc2626 !important;
 }
 .page-post-results__hero .header__text {
-  color: #bb22c2;
+  color: #bb22c2 !important;
 }
 /* End of testportal.css */
