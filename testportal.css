@@ -2,5 +2,7 @@
 #headertext {
   color: #dc2626;
 }
-
+.page-post-results__hero .header__text {
+  color: #bb22c2;
+}
 /* End of testportal.css */
